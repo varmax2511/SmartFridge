@@ -5,3 +5,6 @@ If the message is a question, the fridge answers, according to its contents.
 
 Its a First-Order Logic based natural language understanding system that can create exact semantic representations for complex 
 linguistic input, and respond appropriately,
+
+# Screenshot
+![alt text](https://github.com/varmax2511/SmartFridge/blob/master/screen.png)
