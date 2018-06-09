@@ -7,4 +7,4 @@ Its a First-Order Logic based natural language understanding system that can cre
 linguistic input, and respond appropriately,
 
 # Screenshot
-![alt text](https://github.com/varmax2511/SmartFridge/screen.png)
+![alt text](https://github.com/varmax2511/SmartFridge/blob/master/screen.png)
