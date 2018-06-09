@@ -1,15 +1,5 @@
 :- ['modelchecker.pl'].
 
-% ====================================================
-%
-%  Team Details
-%  -------------
-%  UBIT Name: varunjai, snehameh
-%  Person#: 50247176, 50245877
-%
-% =====================================================
-
-
 % ===========================================================
 % Main loop:
 % 1. Repeat "input-response" cycle until input starts with "bye"
